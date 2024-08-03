@@ -148,6 +148,6 @@
   "compatibility": {
     "minimum": "0.8.6",
     "maximum": "12",
-    "verified": "11"
+    "verified": "12"
   }
 }
